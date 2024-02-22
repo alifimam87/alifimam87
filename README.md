@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android Project
-- 📫 How to reach me alifimam87@gmail.com
+- 📫 How to reach me mohammadalifbudiman@gmail.com
 
 <!---
 alifimam87/alifimam87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
